@@ -1,0 +1,22 @@
+
+process 1 :
+	arrive time : 0
+	temp de reponse 1 
+process 5 :
+	arrive time : 2
+	temp de reponse 3 
+process 3 :
+	arrive time : 6
+	temp de reponse 3 
+process 2 :
+	arrive time : 5
+	temp de reponse 9 
+process 4 :
+	arrive time : 7
+	temp de reponse 9 
+process 6 :
+	arrive time : 8
+	temp de reponse 13 
+process 7 :
+	arrive time : 18
+	temp de reponse 23 
